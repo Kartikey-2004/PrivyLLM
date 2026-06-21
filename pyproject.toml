@@ -1,0 +1,7 @@
+[project]
+name = "privyllm"
+version = "0.1.0"
+description = "Privacy-Preserving LLM Gateway"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
